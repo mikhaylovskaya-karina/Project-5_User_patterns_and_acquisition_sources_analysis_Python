@@ -1,4 +1,4 @@
-# Project-5_User_patterns_and_acquisition_sources_analysis_Python
+# Project-5: User patterns and acquisition sources analysis Python
 
 ## Цель: Компании-сервису по доставке продуктов на дом необходимо проанализировать поведение пользователей в приложении, а также оценить эффективность каналов их привлечения.
 
