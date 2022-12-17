@@ -8,4 +8,4 @@
 - показателей CR, ROMI;
 - когортного анализа по неделям первого посещения/первой покупки.
 
-Файл с исходными данными слишком тяжелый для github, скачать его можно по [ссылке](https://drive.google.com/file/d/1OSYzVl1rIpy6Kpt8LcLG-6MaFBSqVwIw/view?usp=sharing)
+**Файл с исходными данными слишком тяжелый для github, скачать его можно по [ссылке](https://drive.google.com/file/d/1OSYzVl1rIpy6Kpt8LcLG-6MaFBSqVwIw/view?usp=sharing)**
