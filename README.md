@@ -8,6 +8,6 @@
 - показателей CR, ROMI;
 - когортного анализа по неделям первого посещения/первой покупки.
 
-**Использованные библиотеки Python: pandas, numpy, datetime, plotly, IPython**
+**Использованные библиотеки Python: pandas, numpy, datetime, plotly**
 
 **Файл с исходными данными можно скачать по [ссылке](https://drive.google.com/file/d/1OSYzVl1rIpy6Kpt8LcLG-6MaFBSqVwIw/view?usp=sharing)**
